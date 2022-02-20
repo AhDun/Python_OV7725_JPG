@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RGB图像处理", "RGB图像处理.pyproj", "{5A6B5EEA-EA33-428A-B0B3-6AE4EBA72D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6B5EEA-EA33-428A-B0B3-6AE4EBA72D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6B5EEA-EA33-428A-B0B3-6AE4EBA72D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711FA122-21D1-4903-A646-6CAA4108D5A4}
+	EndGlobalSection
+EndGlobal
