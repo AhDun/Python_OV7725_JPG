@@ -4,6 +4,6 @@
 
 #程序版本：1.0.0
 
-#程序作者：阿顿
+#程序作者：阿顿 (www.mattslab.top)
 
 #开发环境：Python & Microsoft Visual Studio Community 2019
